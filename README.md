@@ -78,5 +78,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-*   Developed by Xiefn Yu (github.com/anasaljboorr)
+*   Developed by XIEFNITY (github.com/xiefnity)
 *   Inspired by modern Windows UI/UX principles.
