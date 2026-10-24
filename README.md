@@ -48,7 +48,7 @@ To build and run Project FluentAI, you will need:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/anasaljboorr/FluentAI-UWP.git
+    git clone [https://github.com/anasaljboorr/FluentAI-UWP.git](https://github.com/xiefnity/FluentAI-UWP.git)
     cd ProjectFluentAI
     ```
 2.  **Open in Visual Studio**:
